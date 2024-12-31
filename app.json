@@ -4,6 +4,7 @@
   "keywords": [],
   "website": "",
   "repository": "https://github.com/haru-web1640/yharu-blogapp",
+  "stack": "heroku-20",
   "env": {},
   "addons": [
     "heroku-postgresql:hobby-dev"
