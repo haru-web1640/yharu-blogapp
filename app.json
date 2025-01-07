@@ -13,8 +13,5 @@
     "url": "heroku/nodejs"
   }, {
     "url": "heroku/ruby"
-  }],
-  "engines": {
-    "node": "14.x"
-  }
+  }]
 }
